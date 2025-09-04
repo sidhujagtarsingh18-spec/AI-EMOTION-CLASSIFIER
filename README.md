@@ -1,6 +1,6 @@
 # AI-EMOTION-CLASSIFIER
 "A no- code AI  emotion classifier built using Google Teachable Machine"
-# SUMMARY 
+"## SUMMARY" 
 This project is basic AI model created for google's learn basics of AI course
 it is designed to classify human facial expressions into three categories
 "HAPPY" 
