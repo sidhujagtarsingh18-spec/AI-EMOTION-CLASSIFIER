@@ -1,4 +1,4 @@
-# AI-EMOTION-CLASSIFIER
+# AI-EMOTION-CLASSIFIER-1
 "A no- code AI  emotion classifier built using Google Teachable Machine"
 "## SUMMARY" 
 This project is basic AI model created for google's learn basics of AI course
